@@ -1,7 +1,7 @@
 # spinner
 a simple spinner
 
-clone it then run
+clone or download it then run
 ```bash
 ./spinner
 ```
