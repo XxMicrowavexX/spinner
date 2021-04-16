@@ -1,7 +1,7 @@
 # spinner
 a simple spinner
 
-clone or download it then run
+download from https://raw.githubusercontent.com/XxMicrowavexX/spinner/main/spinner then run
 ```bash
 ./spinner
 ```
